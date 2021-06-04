@@ -1,3 +1,3 @@
 # C_datastruktur
 
-daily practice in C 
+daglig trening i C
