@@ -1,3 +1,3 @@
-# C_datastruktur
+# kubernetes 
 
-daglig trening i C
+
